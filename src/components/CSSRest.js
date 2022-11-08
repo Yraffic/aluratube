@@ -14,7 +14,7 @@ export const CSSReset = createGlobalStyle`
   html {
     display: flex;
     flex-direction: column;
-    min-height: 100%;
+    height: 100vh;
   }
   body {
     display: flex;
